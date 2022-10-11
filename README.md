@@ -19,7 +19,7 @@
 
 ## *Source des données pour ce projet*
 Le lien vers les données spécifiques est le suivant:
-
+http://export.arxiv.org/api/query?search_query=all:electron&start=0&max_results=100
 
 # ***L'idée générale de crawler***
 * Avant d'extraire les informations, il faut utiliser un outil *selenium* qui permet d'effectuer les tests automatisés sur les navigateurs Web (ici Google chrome). Ensuite, il faut installer un chauffeur Chromedrive
@@ -199,8 +199,8 @@ for file in filenames:
 * Sauvegarder les données localement 
 
 # *Conclusion*
-* Le type de *animation* obtient un nombre d'étoiles plus élevées.
-* Les films qui sont sortis relativement tôt ont été mieux reçus.
+* 
+* 
 
 # *Applications*
 * Par ces données, on peut obtenir des informations claires et des données complètes de chaque film dans notre result.CSV qui nous permet de choisir un film préféré rapidement.
