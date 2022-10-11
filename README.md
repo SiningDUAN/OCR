@@ -2,8 +2,8 @@
 
 
 
-## *Crawling le contenu du site web des films*
-* Le principal axe de recherche de notre groupe est de crawling le site web des film. Nous essayons d'utiliser nos outils pour extraire des données sur les films, telles que la date de sortie, le réalisateur, les acteurs, les étoiles et le genre de chaque film. Les données extraites seront ensuite utilisées pour recommander des films aux utilisateurs et choisir leurs films préférés sans marcher sur le tonnerre.
+## *Crawling le contenu d'un site web *
+* Le principal axe de recherche de notre groupe est de crawling le site web *Arxiv*. Nous essayons d'utiliser deux méthodes différentes pour extraire les contenus de ce site web, telles que le titre et l'abstrait de chaque article. 
 * Il en va de même pour les autres sites web. On peut utiliser cette méthode pour explorer n'importe quel site web.
 
 # *Environnement de dévéloppement*
