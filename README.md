@@ -36,13 +36,11 @@ Le lien vers les données spécifiques est le suivant:
  - La fonction *clean* est définie dans *data.py* pour l'outil d'extraction du code source *html* de l'outil.
  - La fonction *clean* extrait : le titre du film, la note, la catégorie du film, le réalisateur, l'acteur et le synopsis via deux modules, *beautifulsoup* et *re*.
 ```Python
-from bs4 import BeautifulSoup
-import re
-```
 ```Python
 import requests  # Execute a URL request and get the HTML of the site
 import feedparser
-
+```
+```Python
 response = requests.get('http://export.arxiv.org/api/query?search_query=all:electron&start=0&max_results=100')
 feed = feedparser.parse(response.content)
 
@@ -140,7 +138,6 @@ def clean_text(file_path):
     with open(file_path,"r") as f:
         txt = f.read()
     return(txt)
-
  ```   
 
 ***4. ***
@@ -193,8 +190,7 @@ for file in filenames:
         with open(text_clean_path,"w+") as f:
             f.write(text_clean)
         
-        print(text_clean)
-        
+        print(text_clean)      
  ```
  
 # *Résolution*
