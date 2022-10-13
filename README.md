@@ -2,7 +2,7 @@
 
 
 
-## *Crawling le contenu d'un site web *
+## *Crawling le contenu d'un site web*
 * Le principal axe de recherche de notre groupe est de crawling le site web *Arxiv*. Nous essayons d'utiliser deux méthodes différentes pour extraire les contenus de ce site web, telles que le titre et l'abstrait de chaque article. 
 * Il en va de même pour les autres sites web. On peut utiliser cette méthode pour explorer n'importe quel site web.
 
@@ -32,9 +32,8 @@ http://export.arxiv.org/api/query?search_query=all:electron&start=0&max_results=
 # *Mode d'emploi*
 *Cet outil se compose de deux scripts:*
 
-***1. ***
- - La fonction *clean* est définie dans *data.py* pour l'outil d'extraction du code source *html* de l'outil.
- - La fonction *clean* extrait : le titre du film, la note, la catégorie du film, le réalisateur, l'acteur et le synopsis via deux modules, *beautifulsoup* et *re*.
+***1. APIs***
+- APIs are created to provide access to data in a controlled way as defined by the owners of the data
 ```Python
 ```Python
 import requests  # Execute a URL request and get the HTML of the site
@@ -112,6 +111,7 @@ driver.quit()
 
 ***3. ***
 ```Python
+ - La fonction *clean* est définie dans *data.py* pour l'outil d'extraction du code source *html* de l'outil.
 # New decorator to clean text
 def clean(func):
     #clean(clean_text)
