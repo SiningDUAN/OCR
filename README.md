@@ -1,40 +1,37 @@
 # ***Open CV***
+* Le principal axe de recherche de notre groupe est d'obtenir l'abstract du site web *Arxiv*. On essaie d'utiliser deux méthodes différentes (ici crawling directement sur html ou transformer l'image en texte) pour extraire les contenus de ce site web, telles que le titre et l'abstrait de chaque article. Et puis on va comparer ces deux méthodes, quels sont les avantages et les inconvénients.
+* Il en va de même pour les autres sites web. On peut choisir ici la méthode préférée pour explorer n'importe quel site web et s'applique dans notre vie.
 
-
-
-## *Crawling le contenu d'un site web*
-* Le principal axe de recherche de notre groupe est de crawling le site web *Arxiv*. Nous essayons d'utiliser deux méthodes différentes pour extraire les contenus de ce site web, telles que le titre et l'abstrait de chaque article. 
-* Il en va de même pour les autres sites web. On peut utiliser cette méthode pour explorer n'importe quel site web.
+## *OCR*
+* L’OCR (Optical character recognition),  c’est une idée de tirer le texte sur une image. 
+* Il s'agit de l'utilisation de technologies optiques et informatiques pour lire un texte imprimé ou écrit sur le papier et convertir ce texte dans un format acceptable pour les ordinateurs et compréhensible pour les humains.
 
 # *Environnement de dévéloppement*
 * macOS or Linux or Windows
 * python (3.6+)
 
-# *Paguets de dépendances*
+# *Paquets de dépendances*
 * requests
+* feedparser
+* time
+* os
+* pytesseract
+* re
 
 # ***Source des données***
-## *Description des sources de données*
-
-
-## *Source des données pour ce projet*
 Le lien vers les données spécifiques est le suivant:
 http://export.arxiv.org/api/query?search_query=all:electron&start=0&max_results=100
 
-# ***L'idée générale de crawler***
-* Avant d'extraire les informations, il faut utiliser un outil *selenium* qui permet d'effectuer les tests automatisés sur les navigateurs Web (ici Google chrome). Ensuite, il faut installer un chauffeur Chromedrive
-* Déterminer le chemin de l'url crawlée, le paramètre headers
-* Envoyer une demande : En utilisant le module de demande de données requests et *headers*, nous envoyons une requête pour l'adresse url du paquet que nous trouvons et obtenons les données de la réponse
-    * Le rôle de headers : utilisé pour déguiser le code python sans être reconnu comme un crawler
-* Analyser les données : extraire le contenu des données que nous voulons
-* Sauvegarder les données 
+# ***L'idée générale***
+* Utiliser l'api arxiv pour récupérer les urls d'une centaine de papiers de recherche
+* Utiliser sélénium avec un time.sleep(15) pour récupérer l'abstract du papier de recherche et l'url du pdf et puis télécharger ce pdf
+* Utiliser tesseract pour transformer en texte l'abstract dans le pdf
+* Comparer les performances de tesseract avec la "vraie valeur" de l'abstract 
 
 # *Mode d'emploi*
-*Cet outil se compose de deux scripts:*
-
 ***1. Première méthode***
-1.1 *APIs*
-- APIs are created to provide access to data in a controlled way as defined by the owners of the data :
+***1.1 APIs***
+* Les API sont créées pour permettre l'accès aux données d'une manière contrôlée, telle que définie par les propriétaires des données
     *ouvrir http://export.arxiv.org/api/query?search_query=all:electron&start=0&max_results=100 via *APIs*
     *Analyser tous les liens *urls* et trouver *l'abstract*
 ```Python
@@ -59,7 +56,7 @@ for entry in feed.entries:
     print(results[entry.id]['title'],'abstract:')
     
 ```    
-*1.2 selenium*
+***1.2 selenium***
       * Fonction *get_links* : ouvrir https://www.ugc.fr/cinema.html?id=30 via *selenium* et récupère tous les liens vers le film.
       * Chaque lien de film obtenu via *get_links* est donné à la fonction *get_info*, qui ouvrira le lien du film avec le module *requests* et récupérera le code source *HTML*.
       * Le code source *html* obtenu à partir de *get_info* est donné à la fonction *clean* de data.py, qui est utilisée pour extraire les informations du film.
@@ -111,7 +108,7 @@ driver.quit()
 ```
 
 ***2. deuxième méthode***
-2.1 *decorator*
+***2.1 decorator***
 ```Python
  - La fonction *clean* est définie dans *data.py* pour l'outil d'extraction du code source *html* de l'outil.
 # New decorator to clean text
@@ -142,7 +139,7 @@ def clean_text(file_path):
     return(txt)
  ```   
 
-2.2 *tesseract*
+***2.2 tesseract***
 ```Python
 import os
 import pytesseract
