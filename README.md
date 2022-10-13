@@ -32,8 +32,11 @@ http://export.arxiv.org/api/query?search_query=all:electron&start=0&max_results=
 # *Mode d'emploi*
 *Cet outil se compose de deux scripts:*
 
-***1. APIs***
-- APIs are created to provide access to data in a controlled way as defined by the owners of the data
+***1. Première méthode***
+1.1 *APIs*
+- APIs are created to provide access to data in a controlled way as defined by the owners of the data :
+    *ouvrir http://export.arxiv.org/api/query?search_query=all:electron&start=0&max_results=100 via *APIs*
+    *Analyser tous les liens *urls* et trouver *l'abstract*
 ```Python
 ```Python
 import requests  # Execute a URL request and get the HTML of the site
@@ -56,9 +59,7 @@ for entry in feed.entries:
     print(results[entry.id]['title'],'abstract:')
     
 ```    
-***2. ***
- - C'est le programme principal de l'outil, qui définit une classe UGC, principalement utilisée pour récupérer les liens vers les films depuis ugc.fr et pour obtenir les détails *html* de chaque film.
- - La fonction *main*, qui est la fonction d'exécution de la classe UGC, appelle respectivement les fonctions suivantes:
+*1.2 selenium*
       * Fonction *get_links* : ouvrir https://www.ugc.fr/cinema.html?id=30 via *selenium* et récupère tous les liens vers le film.
       * Chaque lien de film obtenu via *get_links* est donné à la fonction *get_info*, qui ouvrira le lien du film avec le module *requests* et récupérera le code source *HTML*.
       * Le code source *html* obtenu à partir de *get_info* est donné à la fonction *clean* de data.py, qui est utilisée pour extraire les informations du film.
@@ -109,7 +110,8 @@ for url in urls :
 driver.quit()
 ```
 
-***3. ***
+***2. deuxième méthode***
+2.1 *decorator*
 ```Python
  - La fonction *clean* est définie dans *data.py* pour l'outil d'extraction du code source *html* de l'outil.
 # New decorator to clean text
@@ -140,9 +142,8 @@ def clean_text(file_path):
     return(txt)
  ```   
 
-***4. ***
+2.2 *tesseract*
 ```Python
-#tesseract
 import os
 import pytesseract
 from PIL import Image
@@ -159,26 +160,32 @@ import re
 filenames=os.listdir(r'C:\Users\dsnin\OneDrive\桌面\OpenCV\Scrapy\pdfs')  
 path=r'C:\Users\dsnin\OneDrive\桌面\OpenCV\Scrapy\pdfs'
 for file in filenames:
-#file=filenames[60]
+#file=filenames[0]
     if file.endswith('.pdf'):
         fileName=os.path.join(path, file)
         print(fileName)
         # tranformer pdf en image
         pages = convert_from_path(fileName,poppler_path=r'C:\Program Files\poppler-0.68.0\bin')
         imageFile=fileName+".jpg"
-        pages[0].save(imageFile,'JPEG')
+        pages[0].save(imageFile,'JPEG') 
         
         # Extraction de texte à partir d'images
         image = Image.open(imageFile)
-        text = pytesseract.image_to_string(image)
-        #text_list=re.split(r'Abstract',text,flags=re.I) 
-        #text_list=text_list[1]
-        text_list=text.split(".")
-        text=""
+        text = pytesseract.image_to_string(image) 
+        if not re.match('Abstract',text) == None :
+            text=re.split('Abstract',text,1)[1]     
+        if not re.match('INTRODUCTION',text) == None : 
+            text=re.split('INTRODUCTION',text,1)[0]
+        text_list=text.split(".")     
+        text="" 
         #""+"."+"(Dated: today)"=".(Dated: today)"
         #text_list[0]->text_list[9]
-        for i in range(10):
-            text=text+"."+text_list[i]
+        if len(text_list)>10 : 
+            for i in range(10):
+                text=text+"."+text_list[i]
+        else:
+            for i in range(len(text_list)):  
+                text=text+"."+text_list[i]
         print(text)
         # Open text, clean it and time the operation
         # create dirty text
@@ -190,7 +197,7 @@ for file in filenames:
         with open(text_clean_path,"w+") as f:
             f.write(text_clean)
         
-        print(text_clean)      
+        #print(text_clean)
  ```
  
 # *Résolution*
