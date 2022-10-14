@@ -57,11 +57,6 @@ for entry in feed.entries:
     
 ```    
 ***1.2 selenium***
-      * Fonction *get_links* : ouvrir https://www.ugc.fr/cinema.html?id=30 via *selenium* et récupère tous les liens vers le film.
-      * Chaque lien de film obtenu via *get_links* est donné à la fonction *get_info*, qui ouvrira le lien du film avec le module *requests* et récupérera le code source *HTML*.
-      * Le code source *html* obtenu à partir de *get_info* est donné à la fonction *clean* de data.py, qui est utilisée pour extraire les informations du film.
-      * Une fois que toutes les informations sur les films ont été extraites, la fonction *save_data* stocke les données dans le fichier *results.csv*.
-  
 ```Python  
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -110,7 +105,7 @@ driver.quit()
 ***2. deuxième méthode***
 ***2.1 decorator***
 ```Python
- - La fonction *clean* est définie dans *data.py* pour l'outil d'extraction du code source *html* de l'outil.
+ - La fonction *clean* est définie pour l'outil d'extraction du code source *html* de l'outil.
 # New decorator to clean text
 def clean(func):
     #clean(clean_text)
@@ -200,11 +195,11 @@ for file in filenames:
 # *Résolution*
 * Visitez et acceptez la page web
 * Extraction de données à partir de pages web
-* Sauvegarder les données localement 
+* transformer en texte l'abstract dans le pdf 
 
 # *Conclusion*
-* 
-* 
+* La première méthode est plus facile à mettre en œuvre et peut être extraite directement du code source dans html.
+* La deuxième méthode présente certaines limites(), mais elle est applicable à un groupe beaucoup plus large. 
 
 # *Applications*
 * Par ces données, on peut obtenir des informations claires et des données complètes de chaque film dans notre result.CSV qui nous permet de choisir un film préféré rapidement.
