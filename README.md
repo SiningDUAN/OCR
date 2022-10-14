@@ -199,7 +199,7 @@ for file in filenames:
 
 # *Conclusion*
 * La première méthode est plus facile à mettre en œuvre et peut être extraite directement du code source dans html.
-* La deuxième méthode présente certaines limites(), mais elle est applicable à un groupe beaucoup plus large. 
+* La deuxième méthode présente certaines limites(dans notre opération, c'est difficile de trouver l'abstract dans différents pdfs, Le format de chaque article n'est pas tout à fait le même), mais elle est applicable à un groupe beaucoup plus large. 
 
 # *Applications*
 * Par ces données, on peut obtenir des informations claires et des données complètes de chaque film dans notre result.CSV qui nous permet de choisir un film préféré rapidement.
