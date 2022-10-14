@@ -32,8 +32,8 @@ http://export.arxiv.org/api/query?search_query=all:electron&start=0&max_results=
 ***1. Première méthode***
 ***1.1 APIs***
 * Les API sont créées pour permettre l'accès aux données d'une manière contrôlée, telle que définie par les propriétaires des données
-    *ouvrir http://export.arxiv.org/api/query?search_query=all:electron&start=0&max_results=100 via *APIs*
-    *Analyser tous les liens *urls* et trouver *l'abstract*
+   - ouvrir http://export.arxiv.org/api/query?search_query=all:electron&start=0&max_results=100 via *APIs*
+   - Analyser tous les liens *urls* et trouver *l'abstract*
 ```Python
 ```Python
 import requests  # Execute a URL request and get the HTML of the site
@@ -113,7 +113,6 @@ def clean(func):
         #wrapper(file_path)
         text = func(*args)
         #text=clean_text(file_path)
-        "3 1 ->2"
         text = re.sub(r'None'," ",text)
         text = re.sub(r'\n'," ",text)
         text = re.sub(r'\n      '," ",text)
