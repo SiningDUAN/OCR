@@ -34,7 +34,7 @@ http://export.arxiv.org/api/query?search_query=all:electron&start=0&max_results=
 * Les API sont créées pour permettre l'accès aux données d'une manière contrôlée, telle que définie par les propriétaires des données
    - ouvrir http://export.arxiv.org/api/query?search_query=all:electron&start=0&max_results=100 via *APIs*
    - Analyser tous les liens *urls* et trouver *l'abstract*
-```Python
+
 ```Python
 import requests  # Execute a URL request and get the HTML of the site
 import feedparser
@@ -50,7 +50,6 @@ for entry in feed.entries:
     results[entry.id] = {"title": entry.title,
                          "abstract":entry.summary} 
     print(entry.id)
-#{   url:    {"title":***,"abstract":***} }
     urls.append(entry.id)
     #print(results[entry.id]['title'])
     print(results[entry.id]['title'],'abstract:')
@@ -169,8 +168,6 @@ for file in filenames:
             text=re.split('INTRODUCTION',text,1)[0]
         text_list=text.split(".")     
         text="" 
-        #""+"."+"(Dated: today)"=".(Dated: today)"
-        #text_list[0]->text_list[9]
         if len(text_list)>10 : 
             for i in range(10):
                 text=text+"."+text_list[i]
@@ -206,4 +203,4 @@ for file in filenames:
 
 # *Remerciements spéciaux*
 * CSDN: une site nous permet de chercher la code
-* Monsieur Pelletier nous aide beaucoup sur la code en cours
+* Monsieur Kwirtz nous aide beaucoup sur la code en cours
