@@ -1,6 +1,5 @@
 # ***Open CV***
-* Le principal axe de recherche de notre groupe est d'obtenir l'abstract du site web *Arxiv*. On essaie d'utiliser deux méthodes différentes (ici crawling directement sur html ou transformer l'image en texte) pour extraire les contenus de ce site web, telles que le titre et l'abstrait de chaque article. Et puis on va comparer ces deux méthodes, quels sont les avantages et les inconvénients.
-* Il en va de même pour les autres sites web. On peut choisir ici la méthode préférée pour explorer n'importe quel site web et s'applique dans notre vie.
+* Le principal axe de recherche de notre groupe est d'obtenir l'abstract du site web *Arxiv*. On essaie d'utiliser deux méthodes différentes (ici crawling directement sur html ou OCR) pour extraire les contenus de ce site web, telles que le titre et l'abstrait de chaque article. Et puis on va comparer les précision de ces deux méthodes, quels sont les avantages et les inconvénients.
 
 ## *OCR*
 * L’OCR (Optical character recognition),  c’est une idée de tirer le texte sur une image. 
@@ -26,20 +25,40 @@ http://export.arxiv.org/api/query?search_query=all:electron&start=0&max_results=
 * Utiliser l'api arxiv pour récupérer les urls d'une centaine de papiers de recherche
 * Utiliser sélénium avec un time.sleep(15) pour récupérer l'abstract du papier de recherche et l'url du pdf et puis télécharger ce pdf
 * Utiliser tesseract pour transformer en texte l'abstract dans le pdf
-* Comparer les performances de tesseract avec la "vraie valeur" de l'abstract 
+* Comparer les performances de tesseract avec la "vraie valeur" de l'abstract : Extraire les mots-clés des fichiers PDF et écrire le nombre de mots-clés trouvés dans Excel
 
 # *Mode d'emploi*
-***1. Première méthode***
-***1.1 APIs***
+***ÉTAPE 0 : Chargez les paquets requis***
+```Python
+import requests 
+import feedparser
+
+#selenium
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait 
+import  time 
+
+#tesseract
+import os
+import pytesseract
+from PIL import Image
+
+from pdf2image import convert_from_path
+from PIL import Image
+import pytesseract
+
+import re  
+import xlwt
+```
+***ÉTAPE 1 : APIs***
 * Les API sont créées pour permettre l'accès aux données d'une manière contrôlée, telle que définie par les propriétaires des données
    - ouvrir http://export.arxiv.org/api/query?search_query=all:electron&start=0&max_results=100 via *APIs*
-   - Analyser tous les liens *urls* et trouver *l'abstract*
-
+   - Analyser tous les liens *urls* et trouver *l'abstract*  
 ```Python
-import requests  # Execute a URL request and get the HTML of the site
-import feedparser
-```
-```Python
+"""
+ouvrir l'api arxiv
+"""
 response = requests.get('http://export.arxiv.org/api/query?search_query=all:electron&start=0&max_results=100')
 feed = feedparser.parse(response.content)
 
@@ -55,7 +74,7 @@ for entry in feed.entries:
     print(results[entry.id]['title'],'abstract:')
     
 ```    
-***1.2 selenium***
+***ÉTAPE 2 : selenium***
 ```Python  
 from selenium import webdriver
 from selenium.webdriver.common.by import By
