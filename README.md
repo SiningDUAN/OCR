@@ -151,6 +151,7 @@ def clean_text(file_path):
 ```   
 
 ***ÉTAPE 4 : tesseract***
+*Tesseract est un moteur de reconnaissance optique de caractères
 ```Python
 """
 1.Convertir le première page du PDF en format jpg
