@@ -59,7 +59,7 @@ import xlwt
 """
 ouvrir l'api arxiv
 """
-urls=[]   # url : entry.id
+urls=[]  
 results = {}   
 abstracts={} 
 path=r"C:\Users\dsnin\OneDrive\桌面\OpenCV\Scrapy\ppp"
