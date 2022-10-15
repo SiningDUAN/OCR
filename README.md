@@ -284,8 +284,10 @@ if __name__=="__main__":
 * Extraire les mots-clés du PDF et les mettre dans le pdf
 
 # *Conclusion*
-* La première méthode est plus facile à mettre en œuvre et peut être extraite directement du code source dans html.
-* La deuxième méthode présente certaines limites(dans notre opération, c'est difficile de trouver l'abstract dans différents pdfs, Le format de chaque article n'est pas tout à fait le même), mais elle est applicable à un groupe beaucoup plus large. 
+Après le calcul, nous obtenons une somme de proportions: 780.4170415, qui est pour tous les 100 articles. Avant nous avons dit que si la somme des proportions des 10 mots clés d’un article est égale à 10, alors OCR et Sélénium n’ont pas de différence pour obtenir un texte. Cependant, si cette somme est supérieure à 10, alors OCR est meilleure pour cet article. Par contre, c’est Sélénium qui est meilleure. Ici, la somme totale des 100 articles est 780, qui est inférieure à 1000. Donc, en conclusion, sur la base des échantillons que nous avons pris, Sélénium est une meilleur méthode d'obtenir un texte
+
+# *Difficultés*
+Dans notre exploration, nous avons eu quelques difficultés à utiliser la méthode OCR pour capturer la partie ‘Abstract’ du PDF, et nous n'avons pas été en mesure de trouver une méthode plus précise et plus efficace pour capturer le paragraphe exact de l'abstract. 
 
 # *Remerciements spéciaux*
 * CSDN: une site nous permet de chercher la code
