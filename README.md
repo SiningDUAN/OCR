@@ -179,8 +179,6 @@ def getByTesseract(path):
                 text=re.split('INTRODUCTION',text,1)[0]  
             text_list=text.split(".")     
             text="" 
-            #""+"."+"(Dated: today)"=".(Dated: today)"
-            #text_list[0]->text_list[9] 
             if len(text_list)>10 :   
                 for i in range(10):
                     text=text+"."+text_list[i]
