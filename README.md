@@ -200,7 +200,7 @@ def getByTesseract(path):
         com+=1
 ```
  
-***ÉTAPE 5 : Comparaison de deux méthodes***
+***ÉTAPE 5 : compter les mots-clés***
 ```Python
 """
 1.Extraire les mots-clés du PDF 
