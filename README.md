@@ -222,7 +222,6 @@ def loadKeyWords(path):
            dic[s]=str_list.count(s)
        list_sort=sorted(dic.items(),key=lambda item:item[1])
        #print(list_sort[-1:-11:-1])   #(index) start stop step
-       #[-1,-2.... ,-10] 
     return list_sort[-1:-11:-1]
 
 #compte le nombre de présence de chaque mot de li dans le fichier_text_clean "path"
@@ -231,7 +230,6 @@ def countNP(path,li):
     with open(path,"r+") as f:
         txt=f.read()
         txt_list=txt.split()
-        #tuple=(mot,nombre de présence)
         for tup in li:
            #print(txt_list.count(tup[0])/tup[1])
            #liste de 10 nombres de présence des mots
@@ -247,8 +245,6 @@ def saveInExcel(urls, sheet_name,Epath,pathPDF):
         path=pathPDF
         abs_path=os.path.join(path,url.split('/')[-1])
         abs_path+=".txt" 
-        #v\d* = v1 v2 v3 v123 v5654 v
-        #123154v2=>123154
         txt_name=re.sub('v\d*', '', url.split('/')[-1])+".pdf.txt_clean.txt"
         txt_path=os.path.join(path,txt_name)
     
