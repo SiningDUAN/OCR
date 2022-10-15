@@ -1,4 +1,4 @@
-# ***Open CV***
+# ***OCR***
 Le principal axe de recherche de notre groupe est d'obtenir l'abstract du site web *Arxiv*. On essaie d'utiliser deux méthodes différentes (ici crawling directement sur html ou OCR) pour extraire les contenus de ce site web, telles que le titre et l'abstrait de chaque article. Et puis on va comparer les précisions de ces deux méthodes, quels sont les avantages et les inconvénients
 
 ## *OCR*
