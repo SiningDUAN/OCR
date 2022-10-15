@@ -118,7 +118,7 @@ def getBySelenium(urls,path) :
 ```
 
 ***ÉTAPE 3 : decorator***
-L'utilisation d'un décorateur permet aux utilisateurs d'ajouter de nouvelles fonctionnalités à une fonction existante sans en modifier la structure
+*L'utilisation d'un décorateur permet aux utilisateurs d'ajouter de nouvelles fonctionnalités à une fonction existante sans en modifier la structure
 ```Python
 """
 Utilisez la fonction *clean* pour nettoyer le texte et le transformer en minuscules.
