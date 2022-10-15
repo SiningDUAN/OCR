@@ -152,6 +152,7 @@ def clean_text(file_path):
 
 ***ÉTAPE 4 : tesseract***
 * Tesseract est un moteur de reconnaissance optique de caractères
+* Dans notre processus,  nous avons utilisé le Tesseract pour réaliser cette idée OCR
 ```Python
 """
 1.Convertir le première page du PDF en format jpg
