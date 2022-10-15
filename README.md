@@ -277,17 +277,13 @@ if __name__=="__main__":
  ```
         
 # *Résolution*
-* Visitez et acceptez la page web
-* Extraction de données à partir de pages web
-* transformer en texte l'abstract dans le pdf 
+* Utilisation de *selenium*
+* Utilisation de *tesseract* : transformer en texte l'abstract dans le pdf 
+* Extraire les mots-clés du PDF et les mettre dans le pdf
 
 # *Conclusion*
 * La première méthode est plus facile à mettre en œuvre et peut être extraite directement du code source dans html.
 * La deuxième méthode présente certaines limites(dans notre opération, c'est difficile de trouver l'abstract dans différents pdfs, Le format de chaque article n'est pas tout à fait le même), mais elle est applicable à un groupe beaucoup plus large. 
-
-# *Applications*
-* Par ces données, on peut obtenir des informations claires et des données complètes de chaque pdf.
-* On peut utiliser cet outil qui s'applique aussi aux autres sites.
 
 # *Remerciements spéciaux*
 * CSDN: une site nous permet de chercher la code
