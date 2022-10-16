@@ -115,7 +115,7 @@ def getBySelenium(urls,path) :
         #print(abstracts[url])
         with open(abstract_path,"w+") as f:
             f.write(abstracts[url]['abstract'])  
-        time.sleep(3)
+        time.sleep(15)
         
     # quitter webdriver
     driver.quit()
