@@ -1,0 +1,13 @@
+ The interface between the two complex oxides LaAlO3 and SrTiO3 has remarkable
+properties that can be locally reconfigured between conducting and insulating
+states using a conductive atomic force microscope. Prior investigations of
+sketched quantum dot devices revealed a phase in which electrons form pairs,
+implying a strongly attractive electron-electron interaction. Here, we show
+that these devices with strong electron-electron interactions can exhibit a
+gate-tunable transition from a pair-tunneling regime to a single-electron
+(Andreev bound state) tunneling regime where the interactions become repulsive.
+The electron-electron interaction sign change is associated with a Lifshitz
+transition where the dxz and dyz bands start to become occupied. This
+electronically tunable electron-electron interaction, combined with the
+nanoscale reconfigurability of this system, provides an interesting starting
+point towards solid-state quantum simulation.

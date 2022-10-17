@@ -1,0 +1,5 @@
+ Some properties of the electron-electron collision operator in graphene are
+analyzed along with the evaluation of collision rate. Monte Carlo simulations
+complete the study and highlight the non negligible role of the
+electron-electron scattering for an accurate evaluation of the currents and, as
+a consequence, of the characteristic curves.

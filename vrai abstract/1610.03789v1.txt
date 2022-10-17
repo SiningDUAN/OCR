@@ -1,0 +1,20 @@
+ Suprathermal tails are a common feature of solar wind electron velocity
+distributions, and are expected in the solar corona. From the corona,
+suprathermal electrons can propagate through the steep temperature gradient of
+the transition region towards the chromosphere, and lead to non-Maxwellian
+electron velocity distribution functions (VDFs) with pronounced suprathermal
+tails. We calculate the evolution of a coronal electron distribution through
+the transition region in order to quantify the suprathermal electron population
+there. A kinetic model for electrons is used which is based on solving the
+Boltzmann-Vlasov equation for electrons including Coulomb collisions with both
+ions and electrons. Initial and chromospheric boundary conditions are
+Maxwellian VDFs with densities and temperatures based on a background fluid
+model. The coronal boundary condition has been adopted from earlier studies of
+suprathermal electron formation in coronal loops. The model results show the
+presence of strong suprathermal tails in transition region electron VDFs,
+starting at energies of a few 10 eV. Above electron energies of 600 eV,
+electrons can traverse the transition region essentially collision-free. The
+presence of strong suprathermal tails in transition region electron VDFs shows
+that the assumption of local thermodynamic equilibrium is not justified there.
+This has a significant impact on ionization dynamics, as is shown in a
+companion paper.

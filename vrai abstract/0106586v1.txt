@@ -1,0 +1,8 @@
+ The influence of next-nearest neighbor electron hopping, $t^{\prime}$, on the
+polaron and bipolaron formation in a square Hubbard-Holstein model is
+investigated within a variational approach. The results for electron-phonon and
+electron-electron correlation functions show that a negative value of
+$t^{\prime}$ induces a strong anisotropy in the lattice distortions favoring
+the formation of nearest neighbor intersite bipolaron. The role of
+$t^{\prime}$, electron-phonon and electron-electron interactions is briefly
+discussed in view of the formation of charged striped domains.

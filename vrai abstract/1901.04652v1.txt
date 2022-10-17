@@ -1,0 +1,7 @@
+ Ultrafast electron dynamics of solids after an absorption of femtosecond
+laser pulse is governed by electron-electron, electron-phonon, phonon-electron,
+and phonon-phonon collisions. It is of importance to construct a framework for
+interpreting experimental observations correctly. In this paper we review
+recent developments of modeling the relaxation dynamics of solids. We discuss
+the ultrafast relaxation in respect to the effective temperature dynamics and
+the excess energy dynamics.

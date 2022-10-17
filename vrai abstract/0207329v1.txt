@@ -1,0 +1,8 @@
+ We develop a non-perturbative numerical method to study a single electron
+tunneling through an Aharonov-Bohm ring in the presence of bound, interacting
+electrons. Inelastic processes and spin-flip scattering are properly taken into
+account. We show that electron-electron interactions described by the Hubbard
+Hamiltonian lead to strong dephasing and we obtain high transmission
+probability at Phi=pi even at small interaction strength. Depending on the
+many-electron state on the ring, dephasing can occur in elastic or inelastic
+channels with or without changing the spin of the scattering electron.

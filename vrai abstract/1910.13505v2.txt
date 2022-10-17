@@ -1,0 +1,20 @@
+ Most treatments of electron-electron correlations in dense plasmas either
+ignore them entirely (random phase approximation) or neglect the role of ions
+(jellium approximation). In this work, we go beyond both these approximations
+to derive a new formula for the electron-electron static structure factor which
+properly accounts for the contributions of both ionic structure and
+quantum-mechanical dynamic response in the electrons. The result can be viewed
+as a natural extension of the quantum Ornstein-Zernike theory of ionic and
+electronic correlations, and it is suitable for dense plasmas in which the ions
+are classical and the conduction electrons are quantum-mechanical. The
+corresponding electron-electron pair distribution functions are compared with
+the results of path integral Monte Carlo simulations, showing good agreement
+whenever no strong electron resonance states are present. We construct
+approximate potentials of mean force which describe the effective screened
+interaction between electrons. Significant deviations from Debye-H\"uckel
+screening are present at temperatures and densities relevant to high energy
+density experiments involving warm and hot dense plasmas. The presence of
+correlations between conduction electrons is likely to influence the
+electron-electron contribution to the electron and thermal conductivity. It is
+expected that excitation processes involving the conduction electrons (e.g.,
+free-free absorption) will also be affected.

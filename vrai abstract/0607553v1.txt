@@ -1,0 +1,17 @@
+ The dominant emission from bare strange stars is thought to be
+electron-positron pairs, produced through spontaneous pair creation (SPC) in a
+surface layer of electrons tied to the star by a superstrong electric field.
+The positrons escape freely, but the electrons are directed towards the star
+and quickly fill all available states, such that their degeneracy suppresses
+further SPC. An electron must be reflected and gain energy in order to escape,
+along with the positron. Each escaping electron leaves a hole that is
+immediately filled by another electron through SPC. We discuss the collisional
+processes that produce escaping electrons. When the Landau quantization of the
+motion perpendicular to the magnetic field is taken into account,
+electron-electron collisions can lead to an escaping electron only through a
+multi-stage process involving higher Landau levels. Although the available
+estimates of the collision rate are deficient in several ways, it appears that
+the rate is too low for electron-electron collisions to be effective. A simple
+kinetic model for electron-quark collisions leads to an estimate of the rate of
+pair production that is analogous to thermionic emission, but the work function
+is poorly determined.

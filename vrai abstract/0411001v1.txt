@@ -1,0 +1,14 @@
+ Studies of charge-charge (ion-ion, ion-electron, and electron-electron)
+coupling properties for ion impurities in an electron gas and for a two
+component plasma are carried out on the basis of a regularized electron-ion
+potential without short-range Coulomb divergence. This work is motivated in
+part by questions arising from recent spectroscopic measurements revealing
+discrepancies with present theoretical descriptions. Many of the current
+radiative property models for plasmas include only single electron-emitter
+collisions and neglect some or all charge-charge interactions. A molecular
+dynamics simulation of dipole relaxation is proposed here to allow proper
+account of many electron-emitter interactions and all charge-charge couplings.
+As illustrations, molecular dynamics simulations are reported for the cases of
+a single ion imbedded in an electron plasma and for a two-component
+ion-electron plasma. Ion-ion, electron-ion, and electron-electron coupling
+effects are discussed for hydrogen-like Balmer alpha lines.

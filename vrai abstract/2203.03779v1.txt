@@ -1,0 +1,20 @@
+ High-entropy alloys (HEAs) are exceptional candidates for radiation-resistant
+materials due to their complex local chemical environment and slow defect
+migration. Despite commonly overlooked, electronic effects on defects evolution
+in radiation environments also play a crucial role by dissipating excess energy
+through electron-phonon coupling and electronic heat conduction during cascade
+events. We present a systematic study on electronic properties in random-solid
+solutions (RSS) in four and five principal elements HEAs and their effect on
+defect formation, clustering, and recombination. Electronic properties,
+including electron-phonon coupling factor, the electronic specific heat, and
+the electronic thermal conductivity, are computed within first-principles
+calculations. Using the two-temperature molecular dynamics simulations, we show
+that the electron-phonon coupling factor and electronic specific heat play a
+critical role in Frenkel pairs formation. Specifically, the electron-phonon
+coupling factor quickly dissipates the kinetic energy during primary knock-on
+atom events via plasmon excitations and is subsequently dissipated via the
+free-electrons conduction. We show that these effects are more critical than
+the elastic distortion effects produced by the atomic mismatch. Of tremendous
+interest, we show that including lighter elements helps to increase the
+electron-phonon coupling factor, suggesting the possibility to improve
+radiation resistance in HEA through optimal composition.

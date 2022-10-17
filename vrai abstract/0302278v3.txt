@@ -1,0 +1,15 @@
+ We investigate quantum corrections to the conductivity due to the
+interference of electron-electron (electron-phonon) scattering and elastic
+electron scattering in weakly disordered conductors. The electron-electron
+interaction results in a negative $T^2 \ln T$-correction in a 3D conductor. In
+a quasi-two-dimensional conductor, $d < v_F/T$ ($d$ is the thickness, $v_F$ is
+the Fermi velocity), with 3D electron spectrum this correction is linear in
+temperature and differs from that for 2D electrons (G. Zala et. al., Phys.
+Rev.B {\bf 64}, 214204 (2001)) by a numerical factor. In a
+quasi-one-dimensional conductor, temperature-dependent correction is
+proportional to $T^2$. The electron interaction via exchange of virtual phonons
+also gives $T^2$-correction. The contribution of thermal phonons interacting
+with electrons via the screened deformation potential results in $T^4$-term and
+via unscreened deformation potential results in $T^2$-term. The interference
+contributions dominate over pure electron-phonon scattering in a wide
+temperature range, which extends with increasing disorder.

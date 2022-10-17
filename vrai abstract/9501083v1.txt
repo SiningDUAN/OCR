@@ -1,0 +1,19 @@
+ This paper describes a simple and general method for deriving the inelastic
+collision term in the electron Boltzmann equation for scattering from a coupled
+electron-phonon system, and applies the method to the case of doped polar
+semiconductors. In the Born approximation, the inelastic differential
+scattering rate $W^{inel}$ can be expressed in terms of the nonequilibrium
+total dynamic dielectric function, which includes both electronic and lattice
+contributions. Within the random-phase approximation $W^{inel}$ separates into
+two components: an electron-electron interaction containing the nonequilibrium
+distribution function for excitations of the electron gas, and a Fr\"{o}hlich
+interaction including the phonon distribution function and self-energy due to
+polarization of the electrons. Each of these two interactions is screened by
+only the electronic part of the total dielectric function which contains the
+high frequency dielectric constant, unlike commonly used expressions which
+contain the static dielectric constant. Detailed balance between plasmons and
+electron-hole pairs in steady state is used to eliminate the nonequilibrium
+plasmon distribution from the Boltzmann equation, resulting in a dynamically
+screened electron-electron collision term. The phonon self-energy modifies the
+longitudinal optical phonon dispersion so that two hybrid normal modes
+contribute to the electron-phonon collision term.

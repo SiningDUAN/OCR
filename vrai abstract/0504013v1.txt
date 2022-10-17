@@ -1,0 +1,11 @@
+ In recent work, we discussed the difference between electrons and holes in
+energy band in solids from a many-particle point of view, originating in the
+electron-electron interaction, and argued that it has fundamental consequences
+for superconductivity. Here we discuss the fact that there is also a
+fundamental difference between electrons and holes already at the single
+particle level, arising from the electron-ion interaction. The difference
+between electrons and holes due to this effect parallels the difference due to
+electron-electron interactions: {\it holes are more dressed than electrons}. We
+propose that superconductivity originates in 'undressing' of carriers from
+$both$ electron-electron and electron-ion interactions, and that both aspects
+of undressing have observable consequences.

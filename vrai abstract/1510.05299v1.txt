@@ -1,0 +1,8 @@
+ We propose a model intended to qualitatively capture the electron-electron
+interaction physics of two-dimensional electron gases formed near
+transition-metal oxide heterojunctions containing $t_{2g}$ electrons with a
+density much smaller than one electron per metal atom. Two-dimensional electron
+systems of this type can be described perturbatively using a $GW$ approximation
+which predicts that Coulomb interactions enhance quasiparticle effective masses
+more strongly than in simple two-dimensional electron gases, and that they
+reshape the Fermi surface, reducing its anisotropy.

@@ -1,0 +1,5 @@
+ We study a two dimensional electron system in a parabolic confining potential
+and constant magnetic field for the case of harmonic electron-electron
+interaction. We present analytic results for the electrochemical potential
+versus magnetic field and discuss the effects of correlation in connection with
+the addition energy of a Quantum Dot with few electrons.

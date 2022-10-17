@@ -1,0 +1,6 @@
+ General theorem describing a relation between diagonal of one-electron
+density matrix and a certain class of many-electron ensembles of determinant
+states is proved. As a corollary to this theorem a constructive proof of
+sufficiency of Coleman's representability conditions is obtained. It is shown
+that there exist rigorous schemes for construction of energy of many-electron
+system as functionals of one-electron density.

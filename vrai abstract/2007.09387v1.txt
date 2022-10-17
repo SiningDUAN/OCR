@@ -1,0 +1,12 @@
+ The interplay between electron-electron interaction and electron-phonon
+coupling has been one of the key issues in graphene as it can provide
+information on the origin of enhanced electron-phonon coupling in graphene by
+foreign atoms. In ytterbium-decorated graphene on SiC substrate,
+electron-phonon coupling exhibits strong enhancement compared to that of
+as-grown graphene. Based on angle-resolved photoemission study, the presence of
+ytterbium is also found to result in the decrease of Fermi velocity, revealing
+the enhancement of electron-electron interaction within the Fermi liquid
+theory. Our finding on the concomitant enhancement of electron-electron
+interaction and electron-phonon coupling suggests a possibility of the
+interplay between the two representative many-body interactions in graphene
+decorated with foreign atoms.

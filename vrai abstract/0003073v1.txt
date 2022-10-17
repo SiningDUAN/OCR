@@ -1,0 +1,10 @@
+ A free electron can temporarily gain a very significant amount of energy if
+it is overrun by an intense electromagnetic wave. In principle, this process
+would permit large enhancements in the center-of-mass energy of
+electron-electron, electron-positron and electron-photon interactions if these
+take place in the presence of an intense laser beam. Practical considerations
+severely limit the utility of this concept for contemporary lasers incident on
+relativistic electrons. A more accessible laboratory phenomenon is
+electron-positron production via an intense laser beam incident on a gas.
+Intense electromagnetic pulses of astrophysical origin can lead to very
+energetic photons via bremsstrahlung of temporarily accelerated electrons.

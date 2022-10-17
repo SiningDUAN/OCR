@@ -1,0 +1,5 @@
+ Using a symmetry-based atomic scale theory of lattice distortions, we
+demonstrate that elastic textures, such as twin and antiphase boundaries, can
+generate intricate electronic inhomogeneities in materials with strong
+electron-lattice coupling, as observed in perovskite manganites and other
+functional materials.

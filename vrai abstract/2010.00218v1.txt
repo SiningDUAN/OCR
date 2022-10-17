@@ -1,0 +1,12 @@
+ We relate the phase separation observed in many crystals with pronounced
+electron correlations to the regions of negative electron compressibility. They
+were found in several models describing strong electron correlations. At low
+temperatures, these regions arise near chemical potentials corresponding to the
+change of the ground state in the site Hamiltonian. The negative electron
+compressibility leads to the separation of the system into electron-rich and
+electron-poor domains. The energy released in the course of this separation is
+absorbed by phonons. Another role of phonons is to give a definite form --
+stripes or checkerboards -- to lattice distortions and domains of different
+electron concentrations. The shape, direction, and periodicity of such textures
+are determined by wave vectors of lattice distortions, which most strongly
+scatter electrons.

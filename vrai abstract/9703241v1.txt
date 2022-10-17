@@ -1,0 +1,8 @@
+ We study electron addition spectra of quantum dots in a broad range of
+electron occupancies starting from the first electron. Spectra for dots
+containing <200 electrons reveal a surprising feature. Electron additions are
+not evenly spaced in gate voltage. Rather, they group into bunches. With
+increasing electron number the bunching evolves from occurring randomly to
+periodically at about every fifth electron. The periodicity of the bunching and
+features in electron tunneling rates suggest that the bunching is associated
+with electron additions into spatially distinct regions within the dots.

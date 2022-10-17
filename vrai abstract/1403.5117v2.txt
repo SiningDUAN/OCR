@@ -1,0 +1,22 @@
+ The electronic behavior of various solid metals (Al, Ni, Cu, Au, Ti, and W)
+under ultrashort laser irradiation is investigated by means of density
+functional theory. Successive stages of extreme nonequilibrium on picosecond
+time scale impact the excited material properties in terms of optical coupling
+and transport characteristics. As these are generally modelled based on the
+free-electron classical theory, the free-electron number is a key parameter.
+However, this parameter remains unclearly defined and dependencies on the
+electronic temperature are not considered. Here, from first-principles
+calculations, density of states are obtained with respect to electronic
+temperatures varying from 10^-2 to 10^5 K within a cold lattice. Based on the
+concept of localized or delocalized electronic states, temperature dependent
+free-electron numbers are evaluated for a series of metals covering a large
+range of electronic configurations. With the increase of the electronic
+temperature we observe strong adjustments of the electronic structures of
+transition metals. These are related to variations of electronic occupation in
+localized d bands, via change in electronic screening and electron-ion
+effective potential. The electronic temperature dependence of nonequilibrium
+density of states has consequences on electronic chemical potentials,
+free-electron numbers, electronic heat capacities, and electronic pressures.
+Thus electronic thermodynamic properties are computed and discussed, serving as
+a base to derive energetic and transport properties allowing the description of
+excitation and relaxation phenomena caused by rapid laser action.

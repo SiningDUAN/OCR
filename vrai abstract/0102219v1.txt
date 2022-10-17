@@ -1,0 +1,5 @@
+ We discuss the applicability of the Boltzmann equation to the classical
+two-dimensional electron gas. We show that in the presence of both the
+electron-impurity and electron-electron scattering the Boltzmann equation can
+be inapplicable and the correct result for conductivity can be different from
+the one obtained from the kinetic equation by a logarithmically large factor.

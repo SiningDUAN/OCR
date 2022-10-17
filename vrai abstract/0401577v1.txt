@@ -1,0 +1,10 @@
+ In the hot electron regime, electron-electron scattering strongly modifies
+not only the shot noise but also the full counting statistics. We employ a
+method based on a stochastic path integral to calculate the counting statistics
+of two systems in which noise in the hot electron regime has been
+experimentally measured. We give an analytical expression for the counting
+statistics of a chaotic cavity and find that heating due to electron-electron
+scattering renders the distribution of transmitted charge symmetric in the shot
+noise limit. We also discuss the frequency dispersion of the third order
+correlation function and present numerical calculations for the statistics of
+diffusive wires in the hot electron regime.

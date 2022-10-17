@@ -1,0 +1,10 @@
+ Electron dynamics in Electron Cyclotron Resonance Ion Source is numerically
+simulated by using Particle-In-Cell code combined with simulations of the ion
+dynamics. Mean electron energies are found to be around 70 keV close to values
+that are derived from spectra of X-ray emission out of the source. Electron
+life time is defined by losses of low-energy electrons created in ionizing
+collisions; the losses are regulated by electron heating rate, which depends on
+magnitude of the microwave electric field. Changes in ion confinement with
+variations in the microwave electric field and gas flow are simulated.
+Influence of electron dynamics on the afterglow and two-frequency heating
+effects is discussed.

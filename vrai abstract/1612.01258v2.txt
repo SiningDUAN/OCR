@@ -1,0 +1,12 @@
+ An electron mobility enhancement is the very important phenomenon of an
+electron in the electronic device, where the high electronic device performance
+has the good electron mobility, which is obtained by the overall electron drift
+velocity in the electronic material driven potential difference. The increasing
+in electron mobility by the injected high group velocity pulse is proposed in
+this article. By using light pulse input into the nonlinear microring
+resonator, light pulse group velocity can be tuned and increased, from which
+the required output group velocity can be obtained, which can be used to drive
+electron within the plasmonic waveguide, where eventually, the relative
+electron mobility can be obtained, the increasing in the electron mobility
+after adding up by the driven optical fields can be connected to the external
+electronic devices and circuits, which can be useful for many applications.

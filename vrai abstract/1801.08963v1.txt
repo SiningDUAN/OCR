@@ -1,0 +1,7 @@
+ Since the initial proposal in 1990s, the method of electron lenses has been
+successfully developed and employed at the high energy particle colliders, like
+Tevatron and RHIC. Here we propose a new set of electron multi beam elements
+(electron grids, electron lattices, electron grates and other) which employ
+many beams in various spatial configurations, with possible time varying
+currents. We present major principles of operation and generation of such
+systems and briefly discuss a set of possible applications in accelerators.

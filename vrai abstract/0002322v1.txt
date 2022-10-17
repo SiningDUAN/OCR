@@ -1,0 +1,15 @@
+ First-principles calculations of the inelastic lifetime of low-energy
+electrons in Al, Mg, Be, and Cu are reported. Quasiparticle damping rates are
+evaluated from the knowledge of the electron self-energy, which we compute
+within the GW approximation of many-body theory. Inelastic lifetimes are then
+obtained along various directions of the electron wave vector, with full
+inclusion of the band structure of the solid. Average lifetimes are also
+reported, as a function of the electron energy. In Al and Mg, splitting of the
+band structure over the Fermi level yields electron lifetimes that are smaller
+than those of electrons in a free-electron gas. Larger lifetimes are found in
+Be, as a result of the characteristic dip that this material presents in the
+density of states near the Fermi level. In Cu, a major contribution from $d$
+electrons participating in the screening of electron-electron interactions
+yields electron lifetimes which are well above those of electrons in a
+free-electron gas with the electron density equal to that of valence ($4s^1$)
+electrons.

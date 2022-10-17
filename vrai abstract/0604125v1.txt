@@ -1,0 +1,3 @@
+ In this study a method for calculation of the electron-phonon scattering rate
+in semiconductor structures with one-dimensional electron gas is developed. The
+energy uncertainty of electrons is taken into account.

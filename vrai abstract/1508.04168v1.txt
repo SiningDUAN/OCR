@@ -1,0 +1,8 @@
+ The results of experimental investigations of electron ejection from
+gas-discharge nonneutral electron plasma at the formation and radial
+oscillations of vortex structure have been presented. The electrons are
+injected from the vortex structure and the adjacent region of electron sheath
+in the form of pulses the duration and periodicity of which are determined by
+the processes of evolution and dynamics of this structure. The possible
+mechanisms of pulse ejection of electrons are considered. The influence of
+electron ejection on other processes in discharge electron sheath is analyzed.

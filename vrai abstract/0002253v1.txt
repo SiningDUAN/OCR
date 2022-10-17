@@ -1,0 +1,14 @@
+ We have studied experimentally and theoretically the influence of
+electron-electron collisions on the propagation of electron beams in a
+two-dimensional electron gas for excess injection energies ranging from zero up
+to the Fermi energy. We find that the detector signal consists of
+quasiballistic electrons, which either have not undergone any electron-electron
+collisions or have only been scattered at small angles. Theoretically, the
+small-angle scattering exhibits distinct features that can be traced back to
+the reduced dimensionality of the electron system. A number of nonlinear
+effects, also related to the two-dimensional character of the system, are
+discussed. In the simplest situation, the heating of the electron gas by the
+high-energy part of the beam leads to a weakening of the signal of
+quasiballistic electrons and to the appearance of thermovoltage. This results
+in a nonmonotonic dependence of the detector signal on the intensity of the
+injected beam, as observed experimentally.

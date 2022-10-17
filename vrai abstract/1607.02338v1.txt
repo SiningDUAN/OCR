@@ -1,0 +1,8 @@
+ The effect of the resonance of electron scattering energy difference and
+phonon energy on the electron-phonon-electron interaction (EPEI) is studied.
+Results show that the resonance of electron transition energy and phonon energy
+can enhance EPEI by a magnitude of 1 to 2. Moreover, the anisotropic S-wave
+electron or dx2-y2 electron can enhance resonance EPEI, and the self-energy
+correction of the electron will weaken resonance EPEI. Particularly, the
+asymmetrical spin-flip scattering process in k space can reduce the effect of
+electronic self-energy to enhance resonance EPEI

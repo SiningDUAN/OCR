@@ -1,0 +1,15 @@
+ Two electrons in a quantum dot repel each other: their interaction can be
+characterized by a positive interaction energy. From the theory of
+superconductivity, we also know that mechanical vibrations of the crystal
+lattice can make the electron-electron interaction attractive. Analogously, if
+a quantum dot interacts with a mechanical degree of freedom, the effective
+interaction energy can be negative; that is, the electron-electron interaction
+might be attractive. In this work, we propose and theoretically study an
+engineered electromechanical system that exhibits electron-electron attraction:
+a quantum dot suspended on a nonlinear mechanical resonator, tuned by a bottom
+and a top gate electrode. We focus on the example of a dot embedded in a
+suspended graphene ribbon, for which we identify conditions for
+electron-electron attraction. Our results suggest the possibility of electronic
+transport via tunneling of packets of multiple electrons in such devices,
+similar to that in superconducting nanostructures, but without the use of any
+superconducting elements.

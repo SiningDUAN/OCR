@@ -1,0 +1,7 @@
+ It is shown that measurements of zero-frequency shot-noise can provide
+information on electron-electron interaction, because the strong interaction
+results in the nonlinear voltage dependence of the shot noise in metallic
+wires. This is due to the fact that the Wiedemann-Franz law is no longer valid
+in the case of considerable electron-electron interaction. The deviations from
+this law increase the noise power and make it dependent strongly on the ratio
+of electron-electron and electron-impurity scattering rates.

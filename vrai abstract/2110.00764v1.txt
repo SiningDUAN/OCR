@@ -1,0 +1,19 @@
+ The last two decades experimentally affirmed the quantum nature of free
+electron wavepackets by the rapid development of transmission electron
+microscopes into ultrafast, quantum-coherent systems. In particular, ultrafast
+electron pulses can be generated and timed to interact with optical
+near-fields, yielding coherent exchange of the quantized photon energy between
+the relativistic electron wavepacket and the light field. So far, all
+experiments have been restricted to the physically-confining bounds of
+transmission electron microscopes, with their small, millimeter-sized sample
+chambers. In this work, we show the quantum coherent coupling between electrons
+and light in a scanning electron microscope, at unprecedentedly low electron
+energies down to 10.4 keV, so with sub-relativistic electrons. Scanning
+electron microscopes not only afford the yet-unexplored electron energies from
+~0.5 to 30 keV providing optimum light-coupling efficiencies, but they also
+offer spacious and easily-configurable experimental chambers for extended and
+cascaded optical set-ups, potentially boasting thousands of photon-electron
+interaction zones. Our results unleashes the full potential of quantum
+experiments including electron wavepacket shaping and quantum computing with
+multiple arithmetic operations and will allow imaging with low-energy electrons
+and attosecond time resolution.

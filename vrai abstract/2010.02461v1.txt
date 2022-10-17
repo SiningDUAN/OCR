@@ -1,0 +1,16 @@
+ Spin-orbit coupling (SOC) is pivotal for various fundamental spin-dependent
+phenomena in solids and their technological applications. In semiconductors,
+these phenomena have been so far studied in relatively weak electron-electron
+interaction regimes, where the single electron picture holds. However, SOC can
+profoundly compete against Coulomb interaction, which could lead to the
+emergence of unconventional electronic phases. Since SOC depends on the
+electric field in the crystal including contributions of itinerant electrons,
+electron-electron interactions can modify this coupling. Here we demonstrate
+the emergence of SOC effect in a high-mobility two-dimensional electron system
+in a simple band structure MgZnO/ZnO semiconductor. This electron system
+features also strong electron-electron interaction effects. By changing the
+carrier density with Mg-content, we tune the SOC strength and achieve its
+interplay with electron-electron interaction. These systems pave a way to
+emergent spintronic phenomena in strong electron correlation regime and to the
+formation of novel quasiparticles with the electron spin strongly coupled to
+the density.

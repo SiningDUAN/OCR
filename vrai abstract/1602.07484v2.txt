@@ -1,0 +1,13 @@
+ When atoms are organized into a crystal, the single-electron energy levels of
+individual atoms form energy bands. However, there also exist electron-pair
+states in atoms. We found previously that the counterpart of these
+electron-pair states of individual atoms may survive in a two-dimensional
+square-lattice crystal. When the amplitude of the crystal potential is larger
+than a certain value, a metastable electron-pair band arises between the two
+lowest single-electron energy bands. In this paper, we demonstrate that the
+many-particle exchange-correlation corrections renormalize the energy bands and
+may stabilize the electron pairs for certain hole and electron-pair densities
+in the two-dimensional crystal. Therefore, depending upon the crystal potential
+and free carrier densities, there may exist a new many-particle system
+consisting of electron pairs and holes. Furthermore, we calculate the
+charge-density excitation spectrum in this new many-particle system.

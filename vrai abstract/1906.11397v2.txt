@@ -1,0 +1,14 @@
+ Understanding how photoexcited electron dynamics depend on electron-electron
+(e-e) and electron-phonon (e-p) interaction strengths is important for many
+fields, e.g. ultrafast magnetism, photocatalysis, plasmonics, and others. Here,
+we report simple expressions that capture the interplay of e-e and e-p
+interactions on electron distribution relaxation times. We observe a dependence
+of the dynamics on e-e and e-p interaction strengths that is universal to most
+metals and is also counterintuitive. While only e-p interactions reduce the
+total energy stored by excited electrons, the time for energy to leave the
+electronic subsystem also depends on e-e interaction strengths because e-e
+interactions increase the number of electrons emitting phonons. The effect of
+e-e interactions on energy-relaxation is largest in metals with strong e-p
+interactions. Finally, the time high energy electron states remain occupied
+depends only on the strength of e-e interactions, even if e-p scattering rates
+are much greater than e-e scattering rates.

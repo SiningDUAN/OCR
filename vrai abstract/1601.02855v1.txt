@@ -1,0 +1,5 @@
+ We discuss a possibility to observe fast secondary electrons
+($\delta-$electrons) during nuclear $\beta^{-}$-decay in few-electron atoms and
+ions. Formulas for the corresponding probabilities and explicit expression for
+the energy spectrum of $\delta-$electrons are derived in the closed analytical
+forms.

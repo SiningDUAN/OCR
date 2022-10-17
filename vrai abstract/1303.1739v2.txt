@@ -1,0 +1,18 @@
+ We present a numerical investigation of energy and charge distributions
+during electron-beam-induced growth of W nanostructures on SiO2 substrates
+using Monte Carlo simulation of electron transport. This study gives a
+quantitative insight into the deposition of energy and charge in the substrate
+and in already existing metallic nanostructures in the presence of the electron
+beam. We analyze electron trajectories, inelastic mean free paths, and
+distribution of backscattered electrons in different deposit compositions and
+depths. We find that, while in the early stages of the nanostructure growth a
+significant fraction of electron trajectories still interact with the
+substrate, as the nanostructure becomes thicker the transport takes place
+almost exclusively in the nanostructure. In particular, a larger deposit
+density leads to enhanced electron backscattering. This work shows how
+mesoscopic radiation-transport techniques can contribute to a model which
+addresses the multi-scale nature of the electron-beam-induced deposition (EBID)
+process. Furthermore, similar simulations can aid in understanding the role
+played by backscattered electrons and emitted secondary electrons in the change
+of structural properties of nanostructured materials during post-growth
+electron-beam treatments.

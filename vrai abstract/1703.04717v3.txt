@@ -1,0 +1,15 @@
+ We present a universal expression for the electronic friction as felt by a
+set of classical nuclear degrees of freedom (DoF's) coupled to a manifold of
+quantum electronic DoF's; no assumptions are made regarding the nature of the
+electronic Hamiltonian and electron-electron repulsions are allowed. Our
+derivation is based on a quantum-classical Liouville equation (QCLE) for the
+coupled electronic-nuclear motion, followed by an adiabatic approximation
+whereby electronic transitions are assumed to equilibrate faster than nuclear
+movement. The resulting form of friction is completely general, but does reduce
+to previously published expressions for the quadratic Hamiltonian (i.e.
+Hamiltonians without electronic correlation). At equilibrium, the second
+fluctuation-dissipation theorem is satisfied and the frictional matrix is
+symmetric. To demonstrate the importance of electron-electron correlation, we
+study electronic friction within the Anderson-Holstein model, where a proper
+treatment of electron-electron interactions shows signatures of a Kondo
+resonance and a mean-field treatment is completely inadequate.

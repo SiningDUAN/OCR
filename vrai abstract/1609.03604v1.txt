@@ -1,0 +1,16 @@
+ We introduce the idea that the electronic band structure of a charge density
+wave system may mimic the electronic structure of graphene. In that case a
+class of materials quite different from graphene might be opened up to exploit
+graphene's remarkable electronic properties. The theory of such materials,
+along with superconductivity, is based on the material's dynamical, rather than
+its static, properties. The charge density wave system turns out to have a
+number of requirements: (1) a specific wave geometry simply related to
+graphene; (2) a self-consistency among the electrons that requires the net
+Coulomb and phonon-mediated parts of the electron-electron interactions to be
+attractive. We develop a model that leads to an analytical expression for the
+total energy in terms of the effective electron mass $\mu$, the electron
+density $\rho_0$, and the strength $\tilde{\nu}_{K}$ of the net
+electron-electron interaction. For constant $\mu>0$ and $\rho_0$, we examine
+the limitations set upon $\tilde{\nu}_{K}$ by self-consistency, stability, and
+the approximation in the electronic state calculation, and find them to be
+mutually compatible. This demonstrates the viability of our model.

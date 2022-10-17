@@ -1,0 +1,9 @@
+ A microscopic picture of electron-electron pair scattering in single mode
+quantum wires is introduced which includes electron spin. A new source of
+`excess' noise for hot carriers is presented. We show that zero magnetic field
+`spin' splitting in quantum wires can lead to a dramatic `spin'-subband
+dependence of electron--electron scattering, including the possibility of
+strong suppression. As a consequence extremely long electron coherence lengths
+and new spin-related phenomena are predicted. Since electron bands in III-V
+semiconductor quantum wires are in general spin-split in zero applied magnetic
+field, these new transport effects are of general importance.

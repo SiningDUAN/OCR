@@ -1,0 +1,11 @@
+ The quadratic low-temperature dependence of resistance in ordinary metals is
+determined by the momentum relaxation due to electron-electron scattering in
+the presence Umklapp processes and scattering on impurities. In metals without
+inversion center spin-orbit interaction of electrons with crystal lattice lifts
+spin degeneracy of electron states and splits each band on two bands. The
+temperature dependence of electron-electron collisions scattering rate is found
+using the matrix kinetic equation including the electron-impurity and
+electron-electron intra and inter band scattering. It is shown that in clean
+enough case when the energy of band splitting exceeds the electron-impurity
+scattering rate but at the same time it is much smaller than the Fermi energy
+the square low-temperature dependence of resistivity is still valid.

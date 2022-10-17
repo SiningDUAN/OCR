@@ -1,0 +1,21 @@
+ Free electrons are essential in such diverse applications as electron
+microscopes, accelerators, and photo-emission spectroscopy. Often, space charge
+effects of many electrons are a nuisance. Confined to extremely small
+space-time dimensions, even two electrons can interact strongly. In this case,
+the Coulomb repulsion can now be highly advantageous, because it leads to
+surprisingly powerful electron-electron correlations, as we demonstrate here.
+We show that femtosecond laser-emitted electrons from nanometric needle tips
+are highly anti-correlated in energy because of dynamic Coulomb repulsion, with
+a visibility of $56\,\%$. We extract a mean energy splitting of $3.3\,$eV and a
+correlation decay time of $82\,$fs. Importantly, the energy-filtered electrons
+display a sub-Poissonian number distribution with a second order correlation
+function as small as $g^{(2)} = 0.34$, implying that shot noise-reduced pulsed
+electron beams can be realized based on simple energy filtering. Even heralded
+electrons could become available for quantum-enhanced electron imaging
+protocols. Furthermore, we also reach the strong-field regime of laser-driven
+electron emission. We gain deep insights into how the electron correlations of
+the different electron classes (direct vs. rescattered) are influenced by the
+strong laser fields. Our work levels the field of quantum electron optics, with
+direct ramifications for shot noise-reduced and quantum electron imaging as
+well as direct measurements of correlated electrons from inside of strongly
+correlated matter.

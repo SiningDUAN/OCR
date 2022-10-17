@@ -1,0 +1,8 @@
+ We study possible quantum states of two correlated electrons in a
+two-dimensional crystal and find a metastable energy band of the electron pair
+between the two lowest single-electron bands. These metastable states result
+from the interplay of electron correlations and the strength of the crystal
+potential. The two paired electrons are bound in the same unit cell in relative
+coordinates with an average distance between them about one third of the
+crystal period. Furthermore, we show how such electron-pairs can be stabilized
+in a many-electron system.

@@ -1,0 +1,21 @@
+ We discuss galvanomagnetic and thermomagnetic effects in disordered
+electronic systems focusing on intermediate temperatures, for which
+electron-electron scattering and electron-impurity scattering occur at similar
+rates, while phonon-related effects can be neglected. In particular, we explore
+how electric and thermal currents driven either by an electric field or by a
+temperature gradient are affected by the interplay of momentum-dependent
+electron-impurity scattering, electron-electron scattering, and the presence of
+a magnetic field. We find that the electric resistance, the Seebeck coefficient
+and the Nernst coefficient are particularly sensitive to the momentum
+dependence of the electron-impurity scattering rate at intermediate
+temperatures. A sufficiently strong momentum dependence of the
+electron-impurity scattering rate can induce a sign change of the Seebeck
+coefficient. This sign change can be suppressed by a perpendicular magnetic
+field. The temperature and magnetic field dependence of the Seebeck coefficient
+can be used for measuring the magnitude of the electron-impurity and
+electron-electron scattering rates. The Nernst coefficient vanishes for
+momentum-independent electron-impurity scattering, but displays a maximum at
+finite temperatures once the momentum dependence is accounted for. By contrast,
+the Hall coefficient and the Righi-Leduc coefficient display only a weak
+dependence on the momentum dependence of the electron-impurity scattering at
+intermediate temperatures.

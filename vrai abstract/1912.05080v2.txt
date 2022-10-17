@@ -1,0 +1,17 @@
+ The number of electronic bands is usually considered invariant regardless of
+the electron density in a band picture. However, in interacting systems, the
+spectral-weight distribution generally changes depending on the electron
+density, and electronic states can even emerge or disappear as the electron
+density changes. Here, to clarify how electronic states emerge and become
+dominant as the electron density changes, the spectral function of the Hubbard
+ladder with strong repulsion and strong intrarung hopping is studied using the
+non-Abelian dynamical density-matrix renormalization-group method. A mode
+emerging in the low-electron-density limit gains spectral weight as the
+electron density increases and governs the dimer Mott physics at
+quarter-filling. In contrast, the antibonding band, which is dominant in the
+low-electron-density regime, loses spectral weight and disappears at the Mott
+transition at half-filling, exhibiting the momentum-shifted magnetic dispersion
+relation in the small-doping limit. This paper identifies the origin of the
+electronic states responsible for the Mott transition and brings a new
+perspective to electronic bands by revealing the overall nature of electronic
+states over a wide energy and electron-density regime.

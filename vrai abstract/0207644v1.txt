@@ -1,0 +1,15 @@
+ The ground-state behavior of the symmetric electron-electron and
+electron-hole bilayers is studied by including dynamic correlation effects
+within the quantum version of Singwi, Tosi, Land, and Sjolander (qSTLS) theory.
+The static pair-correlation functions, the local-field correction factors, and
+the ground-state energy are calculated over a wide range of carrier density and
+layer spacing. The possibility of a phase transition into a density-modulated
+ground state is also investigated. Results for both the electron-electron and
+electron-hole bilayers are compared with those of recent diffusion Monte Carlo
+(DMC) simulation studies. We find that the qSTLS results differ markedly from
+those of the conventional STLS approach and compare in the overall more
+favorably with the DMC predictions. An important result is that the qSTLS
+theory signals a phase transition from the liquid to the coupled Wigner crystal
+ground state, in both the electron-electron and electron-hole bilayers, below a
+critical density and in the close proximity of layers (d <~ r_sa_0^*), in
+qualitative agreement with the findings of the DMC simulations.

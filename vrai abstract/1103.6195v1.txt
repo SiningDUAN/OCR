@@ -1,0 +1,7 @@
+ We present a quantum calculation of the electron degeneracy for electron
+sources. We explore quantum interference of electrons in the temporal and
+spatial domain and demonstrate how it can be utilized to characterize a pulsed
+electron source. We estimate effects of Coulomb repulsion on two-electron
+interference and show that currently available nano tip pulsed electron sources
+operate in the regime where the quantum nature of electrons can be made
+dominant.

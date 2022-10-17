@@ -1,0 +1,14 @@
+ The linear thermoelectric properties of molecular junctions are theoretically
+studied close to room temperature within a model including electron-electron
+and electron-vibration interactions on the molecule. A nonequilibrium adiabatic
+approach is generalized to include large Coulomb repulsion through a
+self-consistent procedure and applied to the investigation of large molecules,
+such as fullerenes, within the Coulomb blockade regime. The focus is on the
+phonon thermal conductance which is quite sensitive to the effects of strong
+electron-electron interactions within the intermediate electron-vibration
+coupling regime. The electron-vibration interaction enhances the phonon and
+electron thermal conductance, and it reduces the charge conductance and the
+thermopower inducing a decrease of the thermoelectric figure of merit. For
+realistic values of junction parameters, the peak values of the thermoelectric
+figure of merit are still of the order of unity since the phonon thermal
+conductance can be even smaller than the electron counterpart.

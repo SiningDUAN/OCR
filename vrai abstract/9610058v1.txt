@@ -1,0 +1,8 @@
+ Buckminsterfullerene compounds exibit remarkable physics at low temperatures,
+e.g. high temperature superconductivity in alkali-fullerenes, and
+ferromagnetism in TDAE -C60. Here we review recent theoretical studies of
+electron correlations in these compounds. In particular, we discuss models of
+electron-vibron interactions, electron-electron interactions, and
+intermolecular hopping. We show that the origin of novel electronic phases lies
+in {\em local} degeneracies of C60; a direct consequence of the high molecular
+symmetry.

@@ -1,0 +1,18 @@
+ Ultrafast laser excitation can induce fast increases of the electronic
+subsystem temperature. The subsequent electronic evolutions in terms of band
+structure and energy distribution can determine the change of several
+thermodynamic properties, including one essential for energy deposition; the
+electronic heat capacity. Using density functional calculations performed at
+finite electronic temperatures, the electronic heat capacities dependent on
+electronic temperatures are obtained for a series of metals, including free
+electron like, transition and noble metals. The effect of exchange and
+correlation functionals and the presence of semicore electrons on electronic
+heat capacities are first evaluated and found to be negligible in most cases.
+Then, we tested the validity of the free electron approaches, varying the
+number of free electrons per atom. This shows that only simple metals can be
+correctly fitted with these approaches. For transition metals, the presence of
+localized d electrons produces a strong deviation toward high energies of the
+electronic heat capacities, implying that more energy is needed to thermally
+excite them, compared to free sp electrons. This is attributed to collective
+excitation effects strengthened by a change of the electronic screening at high
+temperature.

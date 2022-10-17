@@ -1,0 +1,9 @@
+ We present a theoretical treatment for the ejection of a secondary electron
+from a clean metallic surface induced by the impact of a fast primary electron.
+Assuming a direct scattering between the incident, primary electron and the
+electron in a metal, we calculate the electron-pair energy distributions at the
+surfaces of Al and Be. Different models for the screening of the
+electron-electron interaction are examined and the footprints of the surface
+and the bulk plasmon modes are determined and analyzed. The formulated
+theoretical approach is compared with the available experimental data on the
+electron-pair emission from Al.

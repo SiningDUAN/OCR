@@ -1,0 +1,10 @@
+ We discuss a many-electron Hamiltonian with Hubbard-like repulsive
+interaction and linear coupling to the phonon branches, having the Cu-O plane
+of the superconducting cuprates as a paradigm. A canonical transformation
+extracts an effective two-body problem from the many-body theory. As a
+prototype system we study the $\cu$ cluster, which yields electronic pairing in
+the Hubbard model; moreover, a standard treatment of the Jahn-Teller effect
+predicts distortions that destroy electronic pairing. Remarkably, calculations
+that keep all the electronic spectrum into account show that vibrations are
+likely to be synergic with electronic pairing, if the coupling to
+half-breathing modes predominates, as experiments suggest.

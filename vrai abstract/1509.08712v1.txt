@@ -1,0 +1,7 @@
+ Electronic structure calculations for solids based on many-electron
+wavefunctions have been hampered by the argument that for large electron
+numbers wavefunctions are not a legitimate scientific concept, because they
+face an exponential wall problem. We show that this problem can be avoided by
+using cumulant techniques in formulating wavefunctions. Therefore calculations
+for solids based on many-electron functions are possible and useful. This
+includes also systems with strongly correlated electrons.

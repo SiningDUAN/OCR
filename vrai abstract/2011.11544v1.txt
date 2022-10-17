@@ -1,0 +1,9 @@
+ We consider weakly ionized plasma where frequent elastic scattering of
+electrons on neutrals change the individual acts and the rate of
+electron-electron collisions significantly. In this case, the kinetics of
+electron thermalization is very different from that in fully ionized plasma.
+The colliding electrons diffuse because of fast scattering on neutrals. We
+demonstrate how a proper account of this diffusion enables one to estimate the
+characteristic time of electron thermalization. We also present a rigorous
+derivation of the kinetic equation for electrons by using Bogolyubov method
+based on Liouville equations for multi-particle distribution functions.

@@ -1,0 +1,5 @@
+ The total energy of a quasi-one-dimensional electron system is calculated
+using density functional theory. It is shown that spontaneous ferromagnetic
+state in quantum wire occurs at low one-dimensional electron density. The
+critical electron density below which electrons are in spin-polarized state is
+estimated analytically.

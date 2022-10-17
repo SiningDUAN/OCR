@@ -1,0 +1,17 @@
+ We present a microscopic theory of the optical properties of self-assembled
+quantum dots doped with a single magnetic manganese (Mn) impurity and
+containing a controlled number of electrons. The single-particle electron and
+heavy-hole electronic shells are described by two-dimensional harmonic
+oscillators. The electron-electron, electron-hole Coulomb as well as the
+short-range electron spin-Mn spin and hole spin-Mn spin contact exchange
+interactions are included. The electronic states of the photo-excited
+electron-hole-Mn complex and of the final electron-Mn complex are expanded in a
+finite number of configurations and the full interacting Hamiltonian is
+diagonalized numerically. The emission spectrum is predicted as a function of
+photon energy for a given number of electrons and different number of confined
+electronic quantum dot shells. We show how emission spectra allow to identify
+the number of electronic shells, the number of electrons populating these
+shells and, most importantly, their spin. We show that electrons not
+interacting directly with the spin of Mn ion do so via electron-electron
+interactions. This indirect interaction is a strong effect even when Mn
+impurity is away from the quantum dot center.

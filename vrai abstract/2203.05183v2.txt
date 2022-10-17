@@ -1,0 +1,17 @@
+ Rejuvenation of hydrodynamic transport in solids provides a new window to
+study collective motion of electrons, where electrons behave like a viscous
+fluid akin to classical liquids. Experimental observations of such exotic
+states have not been realized until recent years, and an on-going quest is to
+amplify the hydrodynamic effect in electron fluids. Here we investigate the
+hydrodynamic properties of Dirac electron fluid in graphene from a microscopic
+viewpoint, and elucidate a novel way to enhance electron hydrodynamics. In
+particular, we present strong evidence that the shear viscosity of Dirac
+electrons can be enhanced by frequent electron-hole collisions, through three
+distinct aspects: promoting electrons and holes around the Dirac point by
+disorder, creating electron-hole shared zeroth Landau level by external
+magnetic field, and inducing electron-hole excitations by dynamic deformation.
+We also study Hall viscosity, which is closely related to the geometric
+topology and exhibits quantum behavior analogous to Hall conductivity.
+Therefore, our work demonstrates the exotic landscape of hydrodynamic
+electronics in graphene, and presents experimentally relevant responses to
+quantify the effects of electronic viscosity.

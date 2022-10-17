@@ -1,0 +1,18 @@
+ The dynamics of electrons in the presence of a positive ion is considered for
+conditions of weak electron-electron couping but strong electron-ion coupling.
+The equilibrium electron density and electric field time correlation functions
+are evaluated for semi-classical conditions using a classical statistical
+mechanics with a regularized electron-ion interaction for MD simulation. The
+theoretical analysis for the equilibrium state is obtained from the
+corresponding nonlinear Vlasov equation. Time correlation functions for the
+electrons are determined from the linearized Vlasov equation. The resulting
+electron dynamics is described in terms of a distribution of single
+electron-ion trajectories screened by an inhomogeneous electron gas dielectric
+function. The results are applied to calculation of the autocorrelation
+function for the electron electric field at the ion for $ 0\leq Z\leq 40$,
+including conditions of strong electron-ion coupling. The electron stopping
+power and self-diffusion coefficient are determined from these results, and all
+properties calculated are compared with those obtained from semi-classical
+molecular dynamics simulation. The agreement with semi-classical MD simulation
+is found to be reasonable. The theoretical description provides an instructive
+interpretation for the strong electron-ion results.

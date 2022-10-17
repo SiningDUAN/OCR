@@ -1,0 +1,10 @@
+ Density-matrix renormalization group is used to study the pairing when both
+of electron-electron and electron-phonon interactions are strong in the
+Holstein-Hubbard model at half-filling in a region intermediate between the
+adiabatic (Migdal's) and antiadiabatic limits. We have found: (i) the pairing
+correlation obtained for a one-dimensional system is nearly degenerate with the
+CDW correlation in a region where the phonon-induced attraction is comparable
+with the electron-electron repulsion, but (ii) pairing becomes dominant when we
+destroy the electron-hole symmetry in a trestle lattice. This provides an
+instance in which pairing can arise, in a lattice-structure dependent manner,
+from coexisting electron-electron and electron-phonon interactions.

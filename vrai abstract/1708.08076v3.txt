@@ -1,0 +1,21 @@
+ We study electron loss from a hydrogen-like highly charged ion by the impact
+of equivelocity electrons and protons and also in collisions with hydrogen and
+helium. The collision velocity $v$ varies between $v_{min}$ and $v_{max}$,
+where $v_{min}$ and $v_{max}$ correspond to the energy threshold
+$\varepsilon_{th}$ for electron loss in collisions with a free electron and to
+$\approx 5 \, \varepsilon_{th}$, respectively. Our results show that in this
+range of $v$: i) compared to equivelocity electrons protons are more effective
+in inducing electron loss (due to a substantially larger volume of the
+effectively available final-state electron momentum space), ii) the relative
+(compared to protons) effectiveness of electron projectiles grows with increase
+in the atomic number of a highly charged ion, iii) a substantial part of the
+volume of the final-state-electron momentum space, kinematically available in
+collisions with electrons, is weaker populated in collisions with protons than
+with electrons, iv) even when the total loss cross sections in collisions with
+electrons and protons become already equal the spectra of the outgoing
+electrons still remain quite different in almost the entire volume of the
+final-state-electron momentum space. The points i) and iii), in particular,
+mean that in collisions with hydrogen target the contributions to the loss
+process from the interactions with the nucleus and the electron(s) of the atom
+would be to a large extent separated in the final-state-electron momentum
+space.

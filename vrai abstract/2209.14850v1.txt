@@ -1,0 +1,10 @@
+ The interaction of light and swift electrons has enabled phase-coherent
+manipulation and acceleration of electron wavepackets. Here we investigate this
+interaction in a new regime where low-energy electrons (~20-200 eV) interact
+with a phase-matched light field. Our analytical and numerical study shows that
+slow electrons are subject to strong confinement in the energy domain due to
+the non-vanishing curvature of the electron dispersion. The spectral trap is
+tunable and an appropriate choice of light field parameters can reduce the
+interaction dynamics to only two energy states. The capacity to trap electrons
+expands the scope of electron beam physics, free-electron quantum optics and
+quantum simulators.

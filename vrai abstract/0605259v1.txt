@@ -1,0 +1,14 @@
+ We study acoustic-phonon-induced relaxation of charge excitations in single
+and tunnel-coupled quantum dots containing few confined interacting electrons.
+The Full Configuration Interaction approach is used to account for the
+electron-electron repulsion. Electron-phonon interaction is accounted for
+through both deformation potential and piezoelectric field mechanisms. We show
+that electronic correlations generally reduce intradot and interdot transition
+rates with respect to corresponding single-electron transitions, but this
+effect is lessened by external magnetic fields. On the other hand,
+piezoelectric field scattering is found to become the dominant relaxation
+mechanism as the number of confined electrons increases. Previous proposals to
+strongly suppress electron-phonon coupling in properly designed single-electron
+quantum dots are shown to hold also in multi-electron devices. Our results
+indicate that few-electron orbital degrees of freedom are more stable than
+single-electron ones.
